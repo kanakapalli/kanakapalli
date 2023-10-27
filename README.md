@@ -6,8 +6,8 @@ full stack web and mobile Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kanakapalli.anurag@gmail.com](mailto:kanakapalli.anurag@gmail.com)
-* 🧠  I'm learning machine learning ,
-* 🤝  I'm open to collaborating on flutter , react ,
+* 🧠  I'm learning machine learning , extended reality
+* 🤝  I'm open to collaborating on flutter , react , and more
 * ⚡  i'm secretly iron man but ........ don't tell anyone
 
 ### Skills
